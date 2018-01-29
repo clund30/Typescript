@@ -9,6 +9,8 @@
 function printName(f, l) {
     var greeting = "Hi there, ";
     console.log(greeting + f + " " + l);
+    var greeting = "Hi there, ";
+    console.log(greeting + f + " " + l);
 }
 printName("Casey", "Lund");
 //# sourceMappingURL=006_variables.js.map
