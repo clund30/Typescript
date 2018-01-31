@@ -11,6 +11,7 @@
     "014_loops.ts",
     "018_immediately_invoked_functions.ts",
     "018_5_immediatel_invoked_arguments.ts",
-    "019_closure_introduction.ts"
+    "019_closure_introduction.ts",
+    "021_inheritance.ts"
   ]
 }
